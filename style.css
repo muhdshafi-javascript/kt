@@ -1,0 +1,7 @@
+.container{
+    background-color: cadetblue;
+}
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
